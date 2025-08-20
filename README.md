@@ -10,5 +10,4 @@
 - [ ] **Data Structures**
   - [ ] What are Data Structures?
   - [ ] Importance of Data Structures
-- [ ] **Basic Data Structures**
-  - [ ] Arrays
+- [ ] **Basic Data Structures*
