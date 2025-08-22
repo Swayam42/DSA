@@ -1,6 +1,6 @@
 # Arrays Problems
 
-This folder contains Java solutions to popular array problems, primarily from [LeetCode](https://leetcode.com/).
+This folder contains Java solutions to popular array problems, from [LeetCode](https://leetcode.com/).
 
 ## Problems
 
